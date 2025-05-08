@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url(img/Página\ de\ receita.jpg);
+    background-image: url(img/Página\ de\ receita\ \(1\).jpg);
     background-size: cover;
 }
 
@@ -59,4 +59,14 @@ p {
 
 ul {
     padding-left: 24px;
+}
+
+footer {
+    color: #F0E8C2;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
